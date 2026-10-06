@@ -1,0 +1,19 @@
+# Secrets - NEVER upload these
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Private / generated data
+data/users.csv
+data/citizen_reports.csv
+images/reports/*
+images/before/*
+images/after/*
+!images/reports/.gitkeep
+!images/before/.gitkeep
+!images/after/.gitkeep
+models/*.pkl

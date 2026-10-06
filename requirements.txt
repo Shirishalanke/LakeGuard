@@ -1,0 +1,14 @@
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+xgboost>=2.1,<4
+joblib>=1.4,<2
+geopy>=2.4,<3
+folium>=0.17,<1
+streamlit-folium>=0.23,<1
+statsmodels>=0.14,<1
